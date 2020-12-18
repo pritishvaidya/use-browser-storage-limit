@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "use-browser-storage-limit": {
+      "signature": "e10ee84733dc399924a1b9eb191ee2d0",
+      "file": true
+    }
+  }
+}
