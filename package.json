@@ -42,6 +42,7 @@
   },
   "homepage": "https://github.com/pritishvaidya/use-browser-storage-limit#readme",
   "devDependencies": {
+    "@babel/core": "^7.3.3",
     "@babel/plugin-proposal-class-properties": "^7.3.0",
     "@babel/preset-env": "^7.3.0",
     "@babel/preset-react": "^7.0.0",
