@@ -1,4 +1,4 @@
-# use-browser-storage-limit
+# use-browser-storage-limit [![Maintainability](https://api.codeclimate.com/v1/badges/d48aaf04e2af2345c248/maintainability)](https://codeclimate.com/github/pritishvaidya/use-browser-storage-limit/maintainability)
 React Hook to detect the browser storage limit
 
 ## Getting Started
