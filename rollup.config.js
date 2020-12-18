@@ -74,7 +74,8 @@ const configBase = {
 };
 
 const globals = {
-  react: "React"
+  react: "React",
+  "global/window": "window"
 };
 
 const standaloneBaseConfig = {
