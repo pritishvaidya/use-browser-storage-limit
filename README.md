@@ -12,11 +12,12 @@ React Hook to detect the browser storage limit
 ### Installation
 
 ```bash
-$ npx use-browser-storage-limit
+$ npm i use-browser-storage-limit
 ```
 
 ### Basic Usage
-```
+
+```jsx
 import useBrowserStorageLimit from "use-browser-storage-limit";
 
 function App() {
